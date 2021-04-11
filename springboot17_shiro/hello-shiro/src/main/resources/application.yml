@@ -1,0 +1,16 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: root
+    url: jdbc:mysql://localhost:3306/mybatis?serverTimezone=GMT%2B8&useUnicode=true&characterEncoding=utf8
+    initialization-mode: always
+    type: com.alibaba.druid.pool.DruidDataSource
+    filters: stat,wall
+#    schema:
+#      - classpath:sql/employee.sql
+mybatis:
+  configuration:
+    map-underscore-to-camel-case: true
+  mapper-locations: classpath:mybatis/mapper/*.xml
+  type-aliases-package: com.kuang.helloshiro.pojo

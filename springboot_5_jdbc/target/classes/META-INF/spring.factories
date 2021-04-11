@@ -1,0 +1,5 @@
+org.springframework.context.ApplicationContextInitializer=\
+  com.example.springboot_5_jdbc.listener.helloApplicationContextInitializer
+
+org.springframework.boot.SpringApplicationRunListener=\
+  com.example.springboot_5_jdbc.listener.helloApplicationRunListener

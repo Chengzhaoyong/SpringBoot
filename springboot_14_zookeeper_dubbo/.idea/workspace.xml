@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="14bc9c78-dc44-4db4-a127-0f93b6bdbfbc" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\maven_repository" />
+        <option name="mavenHome" value="E:/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="11.0.2" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1pcBcqTHYGCr0UYtzdahAyhyDlP" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/comsumer/src/main/java/com/itcast" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\program\springBoot\springboot_14_zookeeper_dubbo\comsumer\src\main\java\com\itcast" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ProviderTicketApplication">
+    <configuration name="ComsumerApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="comsumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itcast.comsumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itcast.comsumer" />
+      <option name="MAIN_CLASS_NAME" value="com.itcast.comsumer.ComsumerApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="comsumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itcast.comsumer.ComsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderTicketApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="provider_ticket" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itcast.provider_ticket.ProviderTicketApplication" />
+      <option name="VM_PARAMETERS" value=" -Ddubbo.application.logger=log4j2" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.ComsumerApplication" />
+      <item itemvalue="Spring Boot.ProviderTicketApplication" />
+      <item itemvalue="JUnit.ComsumerApplicationTests.contextLoads" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ComsumerApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14bc9c78-dc44-4db4-a127-0f93b6bdbfbc" name="默认更改列表" comment="" />
+      <created>1615472580999</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615472580999</updated>
+      <workItem from="1615472584279" duration="2816000" />
+      <workItem from="1615524553518" duration="2276000" />
+      <workItem from="1615527244193" duration="3662000" />
+      <workItem from="1615531117186" duration="3228000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" width="1159" height="680" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615532760873">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" width="1159" height="680" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1615532760873" />
+    <state x="456" y="45" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1615527738210">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="456" y="45" key="#com.intellij.ide.macro.MacrosDialog/0.0.1280.680@0.0.1280.680" timestamp="1615527738210" />
+    <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser" timestamp="1615475630986">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1615475630986" />
+    <state x="233" y="0" key="#项目结构" timestamp="1615473936593">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#项目结构/0.0.1280.680@0.0.1280.680" timestamp="1615473936593" />
+    <state width="1237" height="2" key="GridCell.Tab.0.bottom" timestamp="1615540285237">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="2" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1615540285237" />
+    <state width="1237" height="2" key="GridCell.Tab.0.center" timestamp="1615540285237">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="2" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1615540285237" />
+    <state width="1237" height="2" key="GridCell.Tab.0.left" timestamp="1615540285237">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="2" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1615540285237" />
+    <state width="1237" height="2" key="GridCell.Tab.0.right" timestamp="1615540285237">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="2" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1615540285237" />
+    <state width="1237" height="102" key="GridCell.Tab.1.bottom" timestamp="1615540285230">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="102" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1615540285230" />
+    <state width="1237" height="102" key="GridCell.Tab.1.center" timestamp="1615540285230">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="102" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1615540285230" />
+    <state width="1237" height="102" key="GridCell.Tab.1.left" timestamp="1615540285230">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="102" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1615540285230" />
+    <state width="1237" height="102" key="GridCell.Tab.1.right" timestamp="1615540285230">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="102" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1615540285230" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1615475532372">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1615475532372" />
+    <state x="28" y="0" key="new project wizard" timestamp="1615540283418">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="28" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1615540283418" />
+  </component>
+</project>

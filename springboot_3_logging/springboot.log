@@ -1,0 +1,33 @@
+2020-11-06 15:29:21.030  INFO 22344 --- [main] c.e.s.Springboot3LoggingApplicationTests : Starting Springboot3LoggingApplicationTests on 永哥 with PID 22344 (started by 阳光小伙 in E:\program\springBoot\springboot_3_logging)
+2020-11-06 15:29:21.032 DEBUG 22344 --- [main] c.e.s.Springboot3LoggingApplicationTests : Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2020-11-06 15:29:21.034  INFO 22344 --- [main] c.e.s.Springboot3LoggingApplicationTests : No active profile set, falling back to default profiles: default
+2020-11-06 15:29:22.117  INFO 22344 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-06 15:29:22.375  INFO 22344 --- [main] c.e.s.Springboot3LoggingApplicationTests : Started Springboot3LoggingApplicationTests in 2.334 seconds (JVM running for 3.408)
+2020-11-06 15:29:22.680 TRACE 22344 --- [main] c.e.s.Springboot3LoggingApplicationTests : 这是trace日志
+2020-11-06 15:29:22.681 DEBUG 22344 --- [main] c.e.s.Springboot3LoggingApplicationTests : 这是debug日志
+2020-11-06 15:29:22.681  INFO 22344 --- [main] c.e.s.Springboot3LoggingApplicationTests : 这是info日志
+2020-11-06 15:29:22.681  WARN 22344 --- [main] c.e.s.Springboot3LoggingApplicationTests : 这是warn日志
+2020-11-06 15:29:22.681 ERROR 22344 --- [main] c.e.s.Springboot3LoggingApplicationTests : 这是error日志
+2020-11-06 15:29:22.698  INFO 22344 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-06 15:30:37.649 -->[ main ] --->[ INFO  ] [ c.e.s.Springboot3LoggingApplicationTests : 55 ] - Starting Springboot3LoggingApplicationTests on 永哥 with PID 11940 (started by 阳光小伙 in E:\program\springBoot\springboot_3_logging)
+2020-11-06 15:30:37.651 -->[ main ] --->[ DEBUG ] [ c.e.s.Springboot3LoggingApplicationTests : 56 ] - Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2020-11-06 15:30:37.653 -->[ main ] --->[ INFO  ] [ c.e.s.Springboot3LoggingApplicationTests : 651 ] - No active profile set, falling back to default profiles: default
+2020-11-06 15:30:38.745 -->[ main ] --->[ INFO  ] [ o.s.scheduling.concurrent.ThreadPoolTaskExecutor : 181 ] - Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-06 15:30:38.996 -->[ main ] --->[ INFO  ] [ c.e.s.Springboot3LoggingApplicationTests : 61 ] - Started Springboot3LoggingApplicationTests in 2.328 seconds (JVM running for 3.444)
+2020-11-06 15:30:39.300 -->[ main ] --->[ TRACE ] [ c.e.s.Springboot3LoggingApplicationTests : 14 ] - 这是trace日志
+2020-11-06 15:30:39.300 -->[ main ] --->[ DEBUG ] [ c.e.s.Springboot3LoggingApplicationTests : 15 ] - 这是debug日志
+2020-11-06 15:30:39.301 -->[ main ] --->[ INFO  ] [ c.e.s.Springboot3LoggingApplicationTests : 16 ] - 这是info日志
+2020-11-06 15:30:39.301 -->[ main ] --->[ WARN  ] [ c.e.s.Springboot3LoggingApplicationTests : 17 ] - 这是warn日志
+2020-11-06 15:30:39.301 -->[ main ] --->[ ERROR ] [ c.e.s.Springboot3LoggingApplicationTests : 18 ] - 这是error日志
+2020-11-06 15:30:39.321 -->[ SpringContextShutdownHook ] --->[ INFO  ] [ o.s.scheduling.concurrent.ThreadPoolTaskExecutor : 218 ] - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-06 15:33:09.511 -->[ main ] --->[ INFO  ] [ c.e.s.Springboot3LoggingApplicationTests : 55 ] - Starting Springboot3LoggingApplicationTests on 永哥 with PID 19428 (started by 阳光小伙 in E:\program\springBoot\springboot_3_logging)
+2020-11-06 15:33:09.513 -->[ main ] --->[ DEBUG ] [ c.e.s.Springboot3LoggingApplicationTests : 56 ] - Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2020-11-06 15:33:09.514 -->[ main ] --->[ INFO  ] [ c.e.s.Springboot3LoggingApplicationTests : 651 ] - No active profile set, falling back to default profiles: default
+2020-11-06 15:33:10.609 -->[ main ] --->[ INFO  ] [ o.s.scheduling.concurrent.ThreadPoolTaskExecutor : 181 ] - Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-06 15:33:10.850 -->[ main ] --->[ INFO  ] [ c.e.s.Springboot3LoggingApplicationTests : 61 ] - Started Springboot3LoggingApplicationTests in 2.331 seconds (JVM running for 3.446)
+2020-11-06 15:33:11.136 -->[ main ] --->[ TRACE ] [ c.e.s.Springboot3LoggingApplicationTests : 14 ] - 这是trace日志
+2020-11-06 15:33:11.137 -->[ main ] --->[ DEBUG ] [ c.e.s.Springboot3LoggingApplicationTests : 15 ] - 这是debug日志
+2020-11-06 15:33:11.137 -->[ main ] --->[ INFO  ] [ c.e.s.Springboot3LoggingApplicationTests : 16 ] - 这是info日志
+2020-11-06 15:33:11.138 -->[ main ] --->[ WARN  ] [ c.e.s.Springboot3LoggingApplicationTests : 17 ] - 这是warn日志
+2020-11-06 15:33:11.138 -->[ main ] --->[ ERROR ] [ c.e.s.Springboot3LoggingApplicationTests : 18 ] - 这是error日志
+2020-11-06 15:33:11.152 -->[ SpringContextShutdownHook ] --->[ INFO  ] [ o.s.scheduling.concurrent.ThreadPoolTaskExecutor : 218 ] - Shutting down ExecutorService 'applicationTaskExecutor'

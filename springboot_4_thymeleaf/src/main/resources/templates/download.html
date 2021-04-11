@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>文件下载</title>
+
+</head>
+<body>
+<div style="margin-bottom: 10px">文件下载列表：</div>
+
+<table>
+    <tr>
+        <td>blue.png</td>
+        <td><a th:href="@{/download(filename='blue.png')}">下载文件</a></td>
+    </tr>
+    <tr>
+        <td>广财首页.css</td>
+        <td><a th:href="@{/download(filename='广财首页.css')}">下载文件</a></td>
+    </tr>
+</table>
+
+</body>
+</html>

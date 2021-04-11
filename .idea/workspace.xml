@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f455135d-fe81-49a0-94b6-28e3a6f39ff1" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\maven_repository" />
+        <option name="mavenHome" value="E:/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="11.0.2" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1p1NQvGSJyBJnFY271Nl3WMH29Z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\program\springBoot\springboot_11_elasticsearch_jd\src\main\resources\static\js" />
+      <recent name="E:\program\springBoot\springboot_11_elasticsearch_jd\src\main\resources\templates" />
+      <recent name="E:\program\springBoot\springboot_11_elasticsearch_jd\src\main\resources\static" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Springboot11ElasticsearchJdApplication">
+    <configuration name="HtmlParseUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kuang.springboot_11_elasticsearch_jd.controller.utils.HtmlParseUtil" />
+      <module name="springboot_11_elasticsearch_jd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kuang.springboot_11_elasticsearch_jd.controller.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot10ElasticsearchApplicationTests.bulkDocument" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot_10_elasticsearch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itcast.springboot_10_elasticsearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itcast.springboot_10_elasticsearch" />
+      <option name="MAIN_CLASS_NAME" value="com.itcast.springboot_10_elasticsearch.Springboot10ElasticsearchApplicationTests" />
+      <option name="METHOD_NAME" value="bulkDocument" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot10ElasticsearchApplicationTests.delDocument" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot_10_elasticsearch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itcast.springboot_10_elasticsearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itcast.springboot_10_elasticsearch" />
+      <option name="MAIN_CLASS_NAME" value="com.itcast.springboot_10_elasticsearch.Springboot10ElasticsearchApplicationTests" />
+      <option name="METHOD_NAME" value="delDocument" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot10ElasticsearchApplicationTests.getDocument" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot_10_elasticsearch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itcast.springboot_10_elasticsearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itcast.springboot_10_elasticsearch" />
+      <option name="MAIN_CLASS_NAME" value="com.itcast.springboot_10_elasticsearch.Springboot10ElasticsearchApplicationTests" />
+      <option name="METHOD_NAME" value="getDocument" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot10ElasticsearchApplicationTests.searchDoc" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot_10_elasticsearch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itcast.springboot_10_elasticsearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itcast.springboot_10_elasticsearch" />
+      <option name="MAIN_CLASS_NAME" value="com.itcast.springboot_10_elasticsearch.Springboot10ElasticsearchApplicationTests" />
+      <option name="METHOD_NAME" value="searchDoc" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot10ElasticsearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_10_elasticsearch" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itcast.springboot_10_elasticsearch.Springboot10ElasticsearchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot11ElasticsearchJdApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_11_elasticsearch_jd" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kuang.springboot_11_elasticsearch_jd.Springboot11ElasticsearchJdApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Springboot10ElasticsearchApplicationTests.bulkDocument" />
+        <item itemvalue="Application.HtmlParseUtil" />
+        <item itemvalue="JUnit.Springboot10ElasticsearchApplicationTests.searchDoc" />
+        <item itemvalue="JUnit.Springboot10ElasticsearchApplicationTests.delDocument" />
+        <item itemvalue="JUnit.Springboot10ElasticsearchApplicationTests.getDocument" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f455135d-fe81-49a0-94b6-28e3a6f39ff1" name="默认更改列表" comment="" />
+      <created>1614346623341</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614346623341</updated>
+      <workItem from="1614346625146" duration="608000" />
+      <workItem from="1614347248811" duration="236000" />
+      <workItem from="1615128161163" duration="3384000" />
+      <workItem from="1615169367456" duration="16240000" />
+      <workItem from="1615193722765" duration="3006000" />
+      <workItem from="1615278232729" duration="11023000" />
+      <workItem from="1615296658868" duration="5375000" />
+      <workItem from="1615305623311" duration="144000" />
+      <workItem from="1615306239727" duration="772000" />
+      <workItem from="1615339819344" duration="4062000" />
+      <workItem from="1615344120763" duration="4216000" />
+      <workItem from="1615360803257" duration="144000" />
+      <workItem from="1616485527348" duration="324000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="135" y="0" width="1145" height="680" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615128232036">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="135" y="0" width="1145" height="680" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1615128232036" />
+    <state x="446" y="49" key="#com.intellij.ide.util.MemberChooser" timestamp="1615281375178">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="49" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1615281375178" />
+    <state x="492" y="230" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1614346830966">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="492" y="230" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.680@0.0.1280.680" timestamp="1614346830966" />
+    <state x="233" y="0" key="#项目结构" timestamp="1615341411247">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#项目结构/0.0.1280.680@0.0.1280.680" timestamp="1615341411247" />
+    <state x="93" y="93" width="1095" height="495" key="DiffContextDialog" timestamp="1615289319435">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1615289319435" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1614347228615">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1614347228615" />
+    <state width="1237" height="105" key="GridCell.Tab.0.bottom" timestamp="1615352320058">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="105" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1615352320058" />
+    <state width="1237" height="105" key="GridCell.Tab.0.center" timestamp="1615352320058">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="105" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1615352320058" />
+    <state width="1237" height="105" key="GridCell.Tab.0.left" timestamp="1615352320058">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="105" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1615352320058" />
+    <state width="1237" height="105" key="GridCell.Tab.0.right" timestamp="1615352320058">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="105" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1615352320058" />
+    <state x="0" y="174" width="1237" height="105" key="GridCell.Tab.1.bottom" timestamp="1615352320058">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="174" width="1237" height="105" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1615352320058" />
+    <state x="0" y="174" width="1237" height="105" key="GridCell.Tab.1.center" timestamp="1615352320058">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="174" width="1237" height="105" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1615352320058" />
+    <state x="0" y="174" width="1237" height="105" key="GridCell.Tab.1.left" timestamp="1615352320058">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="174" width="1237" height="105" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1615352320058" />
+    <state x="0" y="174" width="1237" height="105" key="GridCell.Tab.1.right" timestamp="1615352320058">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="174" width="1237" height="105" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1615352320058" />
+    <state x="0" y="174" key="GridCell.Tab.2.bottom" timestamp="1615181078968">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="174" key="GridCell.Tab.2.bottom/0.0.1280.680@0.0.1280.680" timestamp="1615181078968" />
+    <state x="0" y="174" key="GridCell.Tab.2.center" timestamp="1615181078968">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="174" key="GridCell.Tab.2.center/0.0.1280.680@0.0.1280.680" timestamp="1615181078968" />
+    <state x="0" y="174" key="GridCell.Tab.2.left" timestamp="1615181078968">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="174" key="GridCell.Tab.2.left/0.0.1280.680@0.0.1280.680" timestamp="1615181078968" />
+    <state x="0" y="174" key="GridCell.Tab.2.right" timestamp="1615181078968">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="174" key="GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680" timestamp="1615181078968" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1616485649815">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1616485649815" />
+    <state x="0" y="174" width="1294" height="227" key="dock-window-1" timestamp="1615176600554">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="174" width="1294" height="227" key="dock-window-1/0.0.1280.680@0.0.1280.680" timestamp="1615176600554" />
+    <state x="0" y="174" width="1294" height="227" key="dock-window-2" timestamp="1615176680029">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="174" width="1294" height="227" key="dock-window-2/0.0.1280.680@0.0.1280.680" timestamp="1615176680029" />
+    <state x="0" y="174" width="1294" height="37" key="dock-window-3" timestamp="1615179855679">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="174" width="1294" height="37" key="dock-window-3/0.0.1280.680@0.0.1280.680" timestamp="1615179855679" />
+    <state x="0" y="174" width="1294" height="65" key="dock-window-4" timestamp="1615179923547">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="174" width="1294" height="65" key="dock-window-4/0.0.1280.680@0.0.1280.680" timestamp="1615179923547" />
+    <state x="0" y="174" width="1294" height="65" key="dock-window-5" timestamp="1615181005562">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="174" width="1294" height="65" key="dock-window-5/0.0.1280.680@0.0.1280.680" timestamp="1615181005562" />
+    <state x="0" y="174" width="1294" height="65" key="dock-window-6" timestamp="1615181068188">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="174" width="1294" height="65" key="dock-window-6/0.0.1280.680@0.0.1280.680" timestamp="1615181068188" />
+    <state x="56" y="50" key="new project wizard" timestamp="1616485847874">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="56" y="50" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1616485847874" />
+    <state x="297" y="151" width="672" height="677" key="run.anything.popup" timestamp="1615278331784">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" width="672" height="677" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1615278331784" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1615344528777">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1615344528777" />
+  </component>
+</project>

@@ -1,0 +1,37 @@
+{
+  "groups": [
+    {
+      "name": "person",
+      "type": "com.example.springboot_2_quick.bean.Person",
+      "sourceType": "com.example.springboot_2_quick.bean.Person"
+    }
+  ],
+  "properties": [
+    {
+      "name": "person.birth",
+      "type": "java.util.Date",
+      "sourceType": "com.example.springboot_2_quick.bean.Person"
+    },
+    {
+      "name": "person.dog",
+      "type": "com.example.springboot_2_quick.bean.Dog",
+      "sourceType": "com.example.springboot_2_quick.bean.Person"
+    },
+    {
+      "name": "person.list",
+      "type": "java.util.List",
+      "sourceType": "com.example.springboot_2_quick.bean.Person"
+    },
+    {
+      "name": "person.map",
+      "type": "java.util.Map",
+      "sourceType": "com.example.springboot_2_quick.bean.Person"
+    },
+    {
+      "name": "person.name",
+      "type": "java.lang.String",
+      "sourceType": "com.example.springboot_2_quick.bean.Person"
+    }
+  ],
+  "hints": []
+}

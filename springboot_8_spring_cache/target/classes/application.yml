@@ -1,0 +1,17 @@
+spring:
+  datasource:
+#    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: 123456
+    url: jdbc:mysql://192.168.11.130:3307/jdbc?serverTime=UTC&useUnicode=true&characterEncoding=utf8
+    initialization-mode: always
+  redis:
+    host: 192.168.11.130
+
+
+mybatis:
+  configuration:
+    map-underscore-to-camel-case: true
+#  mapper-locations: classpath:mybatis/mapper/*.xml
+#  type-aliases-package: com.example.springboot_5_jdbc.bean
+
